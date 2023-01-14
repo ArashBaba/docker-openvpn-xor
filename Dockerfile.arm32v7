@@ -3,7 +3,7 @@
 # Smallest base image
 FROM arm32v7/ubuntu:18.04
 
-LABEL maintainer="lawtancool"
+LABEL maintainer="arashbaba"
 
 COPY qemu-arm-static /usr/bin
 
